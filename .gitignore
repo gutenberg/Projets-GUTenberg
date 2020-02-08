@@ -1,0 +1,16 @@
+# Specify filepatterns you want git to ignore.
+
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.ent
+*.idx
+*.ilg
+*.ind
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.xml
+.DS_Store
